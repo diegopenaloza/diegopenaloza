@@ -1,16 +1,25 @@
-### Hi there 👋
-<h1>Cientifico de Datos </h1>
-<!--
-**diegopenaloza/diegopenaloza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Diego Peñaloza
+#### I am a Junior Data Scientist
+![I am a Junior Data Scientist](https://tse1.mm.bing.net/th?id=OIP.LuaZjjTD4u_3uJTGbPxSZwHaFj&w=500&c=7&pid=Api)
 
-Here are some ideas to get you started:
+I like the word of data, I always look for new interesting questions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Skills: PYTHON  / R / JS / HTML / CSS / STATA /SPSS
+
+- 🔭 I’m currently working on checkMe app 
+- 🌱 I’m currently learning Natural language processing 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/diegopenaloza)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegopenaloza)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegopenaloza&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diegopenaloza)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=diegopenaloza)  
+
+![Profile views](https://gpvc.arturio.dev/diegopenaloza)  
