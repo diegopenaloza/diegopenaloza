@@ -19,6 +19,3 @@ Skills: PYTHON  / R / JS / HTML / CSS / STATA /SPSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diegopenaloza)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=diegopenaloza)  
-
-![Profile views](https://gpvc.arturio.dev/diegopenaloza)  
