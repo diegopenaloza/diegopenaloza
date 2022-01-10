@@ -13,5 +13,3 @@ Skills: PYTHON  / R / JS / HTML / CSS / STATA /SPSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/diegopenaloza)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diegopenaloza)  
-
