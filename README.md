@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Diego Peñaloza
-#### I am a Junior Data Scientist
+#### I am a  economist and  Data Scientist
 
 I like the word of data, I always look for new interesting questions
 
