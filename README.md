@@ -5,7 +5,7 @@ I like the word of data, I always look for new interesting questions
 
 
 
-Skills: PYTHON  / R / JS / HTML / CSS / STATA /SPSS
+Skills: PYTHON  / R /SQL / JS / HTML / CSS / STATA /SPSS 
 
 - 🔭 I’m currently working on checkMe app 
 - 🌱 I’m currently learning Natural language processing 
